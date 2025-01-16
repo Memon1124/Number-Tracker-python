@@ -55,7 +55,7 @@ This is script also show you location of the number on map.
 1. Just execute the main.py file.
 2. enter you no. with country code - 
    ```bash
-   +91 XXXXXXXXXX
+   +1 9803343225
    ```
 3. And script will display the information in your terminal and also show you on the map.
 4. If map doesn't open automatically in browser, Just click the "mylocation.html" manually.
